@@ -4,7 +4,7 @@ usuari =(input("Escriu l'usuari: "))
 
 contrasenya =(input("Escriu la contrasenya: "))
 
-while resposta_usuari != "q":
+while resposta_usuari != "q" or (usuari != "gerardcamps" and contrasenya != "fernandez") :
     if usuari != "gerardcamps":
         print("L'usuari no es correcta")
     else:
