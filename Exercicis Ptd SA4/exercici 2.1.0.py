@@ -3,7 +3,7 @@ for i in range(11):
 
 print("A continuació els imparells")
 
-for i in range (0,10,3):
+for i in range (1,10,2):
     print(f"{i}")
 
 print("A continuació els parells")
