@@ -1,0 +1,1 @@
+Una llista pot ser util per apuntar tots els noms de els alumnes de la clase i la nota finals que els ha quedat.
