@@ -2,7 +2,7 @@ any= ["Gener", "Febrer", "Març", "Abril", "Maig", "Juny", "Juliol", "Agost", "s
 
 mes = int(input("Digues el mes de l'any amb nombre: "))
 
-if mes < 1 or mes > 7:
+if mes < 1 or mes > 12:
     print("No és un dia vàlid")
 else:
     print(any[mes - 1])
